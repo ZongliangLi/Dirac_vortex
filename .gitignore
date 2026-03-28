@@ -1,0 +1,52 @@
+# PDF files
+*.pdf
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# NumPy / data files
+# *.npy
+*.npz
+# *.csv
+*.h5
+*.hdf5
+*.mat
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Compiled / binary
+*.so
+*.dylib
+*.dll

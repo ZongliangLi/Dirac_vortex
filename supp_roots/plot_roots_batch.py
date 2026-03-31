@@ -102,9 +102,9 @@ def plot_roots(csv_name, output_pdf, title=None):
 if __name__ == '__main__':
     # plot_roots('roots_results000.csv', 'roots_complex_plane_mR_0p0.pdf',  r'$mR = 0.00$')
     # plot_roots('roots_results.csv',    'roots_complex_plane_mR_1p5.pdf',  r'$mR = 1.50$')
-    # plot_roots('roots_results010.csv', 'roots_complex_plane_mR_0p10.pdf', r'$mR = 0.10$')
+    plot_roots('roots_results010.csv', 'roots_complex_plane_mR_0p10.pdf', r'$mR = 0.10$')
     # plot_roots('roots_results025.csv', 'roots_complex_plane_mR_0p25.pdf', r'$mR = 0.25$')
-    plot_roots('roots_results035.csv', 'roots_complex_plane_mR_0p35.pdf', r'$mR = 0.35$')
+    # plot_roots('roots_results035.csv', 'roots_complex_plane_mR_0p35.pdf', r'$mR = 0.35$')
     # plot_roots('roots_results05.csv',  'roots_complex_plane_mR_0p5.pdf',  r'$mR = 0.50$')
     # plot_roots('roots_results075.csv', 'roots_complex_plane_mR_0p75.pdf', r'$mR = 0.75$')
     # plot_roots('roots_results100.csv', 'roots_complex_plane_mR_1p0.pdf',  r'$mR = 1.00$')
